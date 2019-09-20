@@ -5,6 +5,7 @@
 
             <input type="text" name="name" placeholder="Name"><br>
             <input type="text" name="email" placeholder="Email"><br>
+            <input type="text" name="subject" placeholder="Subject"><br>
             <textarea type="text" name="message" placeholder="Message "></textarea><br>
             <button class="btn btn-primary" type="submit" name="submit">SEND</button>
 
